@@ -6,3 +6,8 @@
 Панова Диана  
 Шорников Алексей  
 Ерыгина Виктория  
+## Скрины работы программы
+![Скрин работы](https://github.com/Erygina/-/blob/main/vivod1.jpg)
+![Скрин работы](https://github.com/Erygina/-/blob/main/vivod2.jpg)
+![Скрин работы](https://github.com/Erygina/-/blob/main/vivod3.jpg)
+![Скрин работы](https://github.com/Erygina/-/blob/main/vivod4.jpg)
