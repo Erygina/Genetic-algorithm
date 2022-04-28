@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+E:\int system\лаба3форма\Lab3\Lab3\MyForm.cpp(16,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+E:\int system\лаба3форма\Lab3\Lab3\MyForm.cpp(160,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\int system\лаба3форма\Lab3\Lab3\MyForm.cpp(209,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\int system\лаба3форма\Lab3\Lab3\MyForm.cpp(275,86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\int system\лаба3форма\Lab3\Lab3\MyForm.cpp(276,49): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab3.vcxproj -> E:\int system\лаба3форма\Lab3\Debug\Lab3.exe
